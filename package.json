@@ -19,6 +19,7 @@
     "inquirer": "^9.2.20"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "stylelint-fix": "^2.1.5"
   }
 }
